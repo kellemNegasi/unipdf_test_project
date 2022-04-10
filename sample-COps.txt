@@ -1,0 +1,52 @@
+2 J
+BT
+0 0 0 rg
+/F1 27 Tf
+57.375 722.28 Td
+( A Simple PDF File ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 688.608 Td
+( This is a small demonstration .pdf file - ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 664.704 Td
+( just for use in the Virtual Mechanics tutorials. More text. And more ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 652.752 Td
+( text. And more text. And more text. And more text. ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 628.848 Td
+( And more text. And more text. And more text. And more text. And more ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 616.896 Td
+( text. And more text. Boring, zzzzz. And more text. And more text. And ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 604.944 Td
+( more text. And more text. And more text. And more text. And more text. ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 592.992 Td
+( And more text. And more text. ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 569.088 Td
+( And more text. And more text. And more text. And more text. And more ) Tj
+ET
+BT
+/F1 10 Tf
+69.25 557.136 Td
+( text. And more text. And more text. Even more. Continued on page 2 ...) Tj
+ET

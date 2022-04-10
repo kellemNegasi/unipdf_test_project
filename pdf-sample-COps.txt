@@ -1,0 +1,142 @@
+BT
+/TT2 1 Tf
+14.04 0 0 14.04 213.7606 757.0403 Tm
+/Cs5 cs
+0 0 0 sc
+/GS1 gs
+-0.0026 Tc
+0.0068 Tw
+[(A) 10.2 (d) -7.1 (obe ) -17.1 (A) 18.7 (c) -2 (r) -6.6 (obat PDF Fi) -6.8 (les)] TJ
+/TT4 1 Tf
+12 0 0 12 89.9206 729.3203 Tm
+-0.0009 Tc
+0.0209 Tw
+[(Adobe® Portable Do) -10.9 (cument F) 5.3 (o) -0.9 (rm) -13.1 (at \(PDF) 5.3 (\) is ) -10 (a universal ) -10 (file ) -20 (format ) -10 (that ) -10 (pr) -7.9 (eserv) -10.9 (e) 2.9 (s ) -10 (all)] TJ
+0 -1.15 TD
+0.0008 Tc
+0.0992 Tw
+[(of) 3.8 ( ) 10 (the) 4.6 ( ) 10 (f) 3.8 (onts, ) 10 (f) 3.8 (o) 0.8 (r) 3.8 (m) -1.4 (a) 4.6 (ttin) -9.2 (g) 10.8 (,) 0.8 ( ) 10 (c) 4.6 (o) 0.8 (lour) 3.8 (s ) 10 (a) 4.6 (nd gr) 3.8 (a) 4.6 (phic) 4.6 (s) 0 ( o) -9.2 (f) 3.8 ( a) 4.6 (n) 0.8 (y) 10.8 ( ) -10 (sourc) 4.6 (e) 4.6 ( doc) 4.6 (um) -11.4 (e) 4.6 (n) 0.8 (t, r) 3.8 (e) -5.4 (g) 10.8 (a) -5.3 (r) 3.8 (d) 0.8 (le) 4.6 (ss of)] TJ
+T*
+-0.0004 Tc
+0.0004 Tw
+[(the application and platform us) -11.2 (ed to cre) -6.6 (a) 3.4 (te it.)] TJ
+0 -2.3 TD
+0.0103 Tw
+[(Adobe ) 10 (PDF) 5.9 ( ) 10 (is ) 10 (an ) 10 (ide) -6.5 (a) 3.5 (l ) 10 (format fo) -10.3 (r ele) -6.5 (c) 3.5 (tronic docum) -12.5 (ent distribution as it overcomes the)] TJ
+0 -1.15 TD
+-0.0007 Tc
+0.0007 Tw
+[(problems commonl) -12.9 (y) 19.3 ( en) -10.7 (counter) -7.7 (ed with electroni) -12.9 (c file sha) -6.9 (r) 2.3 (ing) 9.3 (.)] TJ
+/F2 1 Tf
+0 -2.38 TD
+0 Tc
+0 Tw
+() Tj
+/TT6 1 Tf
+0.46 0 TD
+( ) Tj
+/TT8 1 Tf
+1.04 0 TD
+0.0005 Tc
+0.0695 Tw
+(Anyone, anywhere) Tj
+/TT4 1 Tf
+7.74 0 TD
+-0.001 Tc
+0.071 Tw
+[( can open a PD) -8.8 (F) 5.2 ( file. All ) -30 (y) 19 (ou ) -10 (ne) -7.2 (ed ) -10 (is ) -10 (the ) -10 (fr) -8 (ee ) -10 (Adob) -11 (e ) -10 (Acrob) -11 (a) 2.8 (t)] TJ
+-7.74 -1.14 TD
+0.0014 Tc
+0.1086 Tw
+[(Re) 5.2 (a) 5.2 (d) 1.4 (e) 5.2 (r) 4.4 (. ) 10 (Rec) 5.2 (i) -0.8 (pie) 5.2 (n) 1.4 (ts ) 10 (of) 4.4 ( ) 10 (othe) 5.2 (r) 4.4 ( ) 10 (f) 4.4 (ile) 5.2 ( f) 4.4 (o) 1.4 (r) 4.4 (m) -0.8 (a) 5.2 (t) -0.8 (s some) 5.2 (time) 5.2 (s c) 5.2 (a) 5.2 (n) -8.6 (') 11.6 (t) -0.8 ( op) -8.6 (e) 5.2 (n) 1.4 ( f) 4.4 (ile) 5.2 (s bec) 5.2 (a) 5.2 (u) 1.4 (se) 5.2 ( the) -14.8 (y)] TJ
+0 -1.15 TD
+-0.0004 Tc
+0.0004 Tw
+[(don') 9.8 (t hav) -10.4 (e) 3.4 ( the applic) -6.6 (ations used to cre) -6.6 (a) 3.4 (te the docum) -12.6 (ents.)] TJ
+/F2 1 Tf
+-1.5 -2.38 TD
+0 Tc
+0 Tw
+() Tj
+/TT6 1 Tf
+0.46 0 TD
+( ) Tj
+/TT4 1 Tf
+1.04 0 TD
+0.0014 Tc
+-0.0014 Tw
+[(PDF) 7.6 ( f) 4.4 (ile) 5.2 (s )] TJ
+/TT8 1 Tf
+4.05 0 TD
+0.0015 Tc
+-0.0015 Tw
+[(alway) 5.3 (s) 0.7 ( print c) 5.3 (o) 1.5 (rre) 5.3 (c) 5.3 (tly)] TJ
+/TT4 1 Tf
+8.89 0 TD
+-0.0002 Tc
+0.0002 Tw
+[( on an) -20.2 (y) 19.8 ( printin) -10.2 (g) 9.8 ( devic) -6.4 (e) 3.7 (.)] TJ
+/F2 1 Tf
+-14.44 -2.38 TD
+0 Tc
+0 Tw
+() Tj
+/TT6 1 Tf
+0.46 0 TD
+( ) Tj
+/TT4 1 Tf
+1.04 0 TD
+0.0009 Tc
+0.1791 Tw
+[(PDF) 7.1 ( f) 3.9 (ile) 4.7 (s a) 4.7 (l) -1.3 (wa) -15.3 (y) 20.9 (s) 0.1 ( displa) -15.3 (y) 20.9 ( )] TJ
+/TT8 1 Tf
+10.94 0 TD
+0.0005 Tc
+0 Tw
+[(e) -5.7 (xactly)] TJ
+/TT4 1 Tf
+2.89 0 TD
+-0.0009 Tc
+0.1909 Tw
+[( as ) -10 (cre) -7.1 (a) 2.9 (ted, r) -7.9 (e) -7.1 (g) 9.1 (a) 2.9 (rdl) -13.1 (e) 2.9 (ss of fonts, softwa) -7.1 (re, and)] TJ
+-13.83 -1.14 TD
+-0.0004 Tc
+0.0604 Tw
+[(operatin) -10.4 (g) 9.6 ( ) 10 (s) -21.2 (y) 19.6 (stems. ) 10 (F) 5.8 (onts, ) 10 (and g) 9.6 (r) -7.4 (aphics ) 10 (a) -6.6 (r) 2.6 (e ) 10 (not lost due to platform, softwa) -6.6 (re, ) -10 (and)] TJ
+0 -1.15 TD
+0.0012 Tc
+-0.0012 Tw
+[(ve) 5 (r) 4.2 (s) 0.4 (ion inc) 5 (o) 1.2 (mpa) 5 (tibilitie) 5 (s.)] TJ
+/F2 1 Tf
+-1.5 -2.38 TD
+0 Tc
+0 Tw
+() Tj
+/TT6 1 Tf
+0.46 0 TD
+( ) Tj
+/TT4 1 Tf
+1.04 0 TD
+-0.0012 Tc
+0.1712 Tw
+[(The fre) -7.4 (e Ac) -7.4 (robat Read) -11.2 (er is e) -7.4 (a) 2.6 (s) -22 (y) 18.8 ( to download and ) -10 (can be ) -10 (fre) -7.4 (el) -23.4 (y) 18.8 ( distributed by)] TJ
+0 -1.14 TD
+-0.0038 Tc
+0 Tw
+[(an) -13.8 (y) 16.2 (o) -3.8 (n) -13.8 (e) 0 (.)] TJ
+/F2 1 Tf
+-1.5 -2.38 TD
+0 Tc
+() Tj
+/TT6 1 Tf
+0.46 0 TD
+( ) Tj
+/TT4 1 Tf
+1.04 0 TD
+0.0013 Tc
+0.4887 Tw
+[(Compa) 5.1 (c) 5.1 (t) -0.9 ( ) 10 (PDF) 7.5 ( ) 10 (f) 4.3 (ile) 5.1 (s ) 10 (a) 5.1 (r) -5.7 (e) 5.1 ( sma) 5.1 (lle) 5.1 (r) 4.3 ( tha) 5.1 (n) 1.3 ( th) -8.7 (e) 5.1 (i) -0.9 (r) 4.3 ( sour) 4.3 (ce) 5.1 ( f) 4.3 (ile) 5.1 (s a) 5.1 (nd downlo) -8.7 (a) 5.1 (d a)] TJ
+0 -1.14 TD
+-0.0012 Tw
+[(pa) 5 (ge) 5 ( a) 5 (t) -1 ( a) 5 ( time) 5 ( f) 4.2 (o) -8.8 (r) 4.2 ( f) 4.2 (a) 5 (st displa) -15 (y) 21.2 ( on the) 5 ( We) 5 (b.)] TJ
+ET
